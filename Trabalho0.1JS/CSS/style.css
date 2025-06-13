@@ -7,6 +7,10 @@ body{
   background-color: rgb(158, 186, 117);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 header{
   background-color: rgb(113, 165, 113);
   padding: 30px;
