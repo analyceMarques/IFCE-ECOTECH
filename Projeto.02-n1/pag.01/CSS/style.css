@@ -23,7 +23,7 @@ h1{
 }
 
 .jogo {
-  background: linear-gradient(90deg, #ff5757, #f58231,#ffe119, #bfef45,#42d4f4,#4363d8, #911eb4 );
+  /*background: linear-gradient(90deg, #ff5757, #f58231,#ffe119, #bfef45,#42d4f4,#4363d8, #911eb4 );*/
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bold;
