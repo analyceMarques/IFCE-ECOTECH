@@ -5,7 +5,7 @@
 }
 
 body{
- /* background: linear-gradient(135deg, #315c70, #3a6472, #5697b3); /* faz o degrade da do "grau" ou ondulacao do deg(graus)  */
+  background: linear-gradient(135deg, #315c70, #3a6472, #5697b3); /* faz o degrade da do "grau" ou ondulacao do deg(graus)  */
   background-color: white;
   height: 100vh;
   display: flex;
